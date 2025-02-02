@@ -8,8 +8,8 @@ Suppose your domain is `hotspot.example.com`. It can be setup like this:
 
 ```
 cd /var/www
-git clone https://github.com/splash-networks/mikrotik-yt-portal
-mv mikrotik-yt-portal hotspot.example.com
+git clone https://github.com/MUK-code/wifi-portal
+mv wifi-portal hotspot.example.com
 cd /var/www/hotspot.example.com
 ```
 
